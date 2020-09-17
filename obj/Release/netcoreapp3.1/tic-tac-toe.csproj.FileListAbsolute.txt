@@ -1,0 +1,13 @@
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\bin\Release\netcoreapp3.1\tic-tac-toe.exe
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\bin\Release\netcoreapp3.1\tic-tac-toe.deps.json
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\bin\Release\netcoreapp3.1\tic-tac-toe.runtimeconfig.json
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\bin\Release\netcoreapp3.1\tic-tac-toe.runtimeconfig.dev.json
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\bin\Release\netcoreapp3.1\tic-tac-toe.dll
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\bin\Release\netcoreapp3.1\tic-tac-toe.pdb
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.csprojAssemblyReference.cache
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.AssemblyInfoInputs.cache
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.AssemblyInfo.cs
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.dll
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.pdb
+C:\Users\Kseniia.Romashenkova\source\repos\tic-tac-toe\obj\Release\netcoreapp3.1\tic-tac-toe.genruntimeconfig.cache
